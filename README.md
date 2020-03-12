@@ -4,12 +4,13 @@ The amount of Co2 emission from the automobiles is predicted using the Machine L
 
 This is implemeted in Python by using Scikit-learn[sklearn], Pandas, Numpy, Matplotlib, Seaborn <br>
 
-Linear Regression is the process of fiting a linear model with coefficients $\theta = (\theta_1, ..., \theta_n)$ where the 'residual sum of squares' between the independent x and the dependent y in the dataset is minimized by the linear approximation. <br> <br>
+Linear Regression is the process of fiting a linear model with coefficients where the 'residual sum of squares' between the independent x and the dependent y in the dataset is minimized by the linear approximation. <br> <br>
 In simple terms, it is the prediction of a dependent variable value (Y) based on a given independent variable (X) <br>
 
 So, when X and Y are plotted in a graph, then linear regression deduces a straight line that best fits the data points. <br>
 The equation of straight line is given as, <br>
-$y=mx+c$ <br> <br>
+y=mx+c <br>
+
 I implemented using simple linear regression followed by multiple linear regression <br>
 
 ### Polynomial Regression
